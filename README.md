@@ -1,2 +1,1 @@
-# 5006720
-Cognizant: Java FSE
+# Weekly Solutions of Java FSE.
